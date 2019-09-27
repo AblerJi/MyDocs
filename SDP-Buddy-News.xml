@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppNews xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <LatestVersion>1.0.0.7</LatestVersion>
-  <NewsContent>A new version is now available!</NewsContent>
-  <uri>Default</uri>
+  <NewsContent>Happy New year!</NewsContent>
+  <uri></uri>
 </AppNews>
