@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppNews xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <LatestVersion>2.0.0.9</LatestVersion>
-  <NewsContent>Due to the Authentication mechanism change in SDP site, The tool is now unable to function properly. Please use SDP site while I'm dealing with the issue</NewsContent>
+  <NewsContent>Due to Authentication mechanism change in SDP site, The tool is now unable to function properly. \nSorry for the inconvenience</NewsContent>
   <uri></uri>
 </AppNews>
